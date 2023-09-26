@@ -1,6 +1,6 @@
 # ✏ Week 1
-- Topics : 자료형, 형변환
-- context : 강의자료 1 ~ 2
+- Topics : 자료형, 형변환, 표준 입출력
+- context : 강의자료 1 ~ 3
 - Homework : 아래 과제를 수행하고 출력 화면 캡쳐와 함께 week1/(자기이름).md 파일로 업로드
 
 ## Homeworks
