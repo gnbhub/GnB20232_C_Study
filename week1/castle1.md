@@ -24,6 +24,8 @@ int main(void) {
     return 0;
 }
 ```
+![image](https://github.com/gnbhub/GnB20232_C_Study/assets/144791695/7d1947f5-26c2-4c12-9312-216748a0af1b)
+
 
 ```c
 #include <stdio.h>
