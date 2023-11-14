@@ -1,7 +1,6 @@
-# ✏ Week 3
-- Topics : 반복문
-- context : 강의자료 6
-- Homework : 아래 과제를 수행하고 출력 화면 캡쳐와 함께 week3/(자기이름).md 파일로 업로드
+# ✏ Week 4
+- Topic : 배열
+- context : 강의자료 7
 
 ## Practices
 
