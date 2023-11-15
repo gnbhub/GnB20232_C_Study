@@ -1,6 +1,7 @@
 # ✏ Week 5
 - Topic : 함수 & 변수 영역
 - context : 강의자료 8, 9
+- Homework : Practice 2 덧칠하기
 
 ## Practices
 
